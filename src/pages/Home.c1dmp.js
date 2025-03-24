@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <title>JaMail: Private &amp; Secure eMail for Personal or Business | JaMail Workspace</title>
     <meta name="description" content="Stay on top of your inbox and keep your business safer with the secure, smart, and easy to use JaMail." />
-    <link rel="canonical" href="https://workspace.google.com/products/gmail/" />
+    <link rel="canonical" href="https://jmail.net/products/jamail/" />
     <link href="https://jmail.net/static/favicon.ico?cache=4926369" rel="shortcut icon" type="image/x-icon" />
     <meta name="author" content="JaMail Workspace" />
     <meta property="og:type" content="website" />
