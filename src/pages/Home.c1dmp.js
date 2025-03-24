@@ -15,7 +15,7 @@
     <meta property="og:url" content="https://jmail.net/Products/jamail/" />
     <meta property="og:locale" content="en" />
     <meta name="twitter:title" content="JaMail: Private &amp; Secure eMail for Personal or Business | JaMail Workspace" />
-    <meta name="twitter:description" content="Stay on top of your inbox and keep your business safer with the secure, smart, and easy to use Gmail." />
+    <meta name="twitter:description" content="Stay on top of your inbox and keep your business safer with the secure, smart, and easy to use JaMail." />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="https://lh3.googleusercontent.com/wsvMfuRzWWsI6Q8oIMnI_Y90Vv1SxIwwsIOIHvLHIy_SgUyTUqu6g0etzQh2o6CFr77NsfqhCts6TcEfTG4bkkxNGvtd_XGduj2x=w1600-rj-e365" />
     <meta name="twitter:site" content="@googleworkspace" />
