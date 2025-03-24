@@ -1,22 +1,20 @@
-
 <!doctype html>
 <html lang="en" dir="ltr" itemscope itemtype="https://schema.org/WebPage">
-
   <head>
     <meta charset="utf-8" />
-    <title>Gmail: Private &amp; Secure Email for Personal or Business | Google Workspace</title>
-    <meta name="description" content="Stay on top of your inbox and keep your business safer with the secure, smart, and easy to use Gmail." />
+    <title>JaMail: Private &amp; Secure eMail for Personal or Business | JaMail Workspace</title>
+    <meta name="description" content="Stay on top of your inbox and keep your business safer with the secure, smart, and easy to use JaMail." />
     <link rel="canonical" href="https://workspace.google.com/products/gmail/" />
-    <link href="https://workspace.google.com/static/favicon.ico?cache=4926369" rel="shortcut icon" type="image/x-icon" />
-    <meta name="author" content="Google Workspace" />
+    <link href="https://jmail.net/static/favicon.ico?cache=4926369" rel="shortcut icon" type="image/x-icon" />
+    <meta name="author" content="JaMail Workspace" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Gmail: Private &amp; Secure Email for Personal or Business | Google Workspace" />
-    <meta name="og:description" content="Stay on top of your inbox and keep your business safer with the secure, smart, and easy to use Gmail." />
-    <meta content="https://lh3.googleusercontent.com/wsvMfuRzWWsI6Q8oIMnI_Y90Vv1SxIwwsIOIHvLHIy_SgUyTUqu6g0etzQh2o6CFr77NsfqhCts6TcEfTG4bkkxNGvtd_XGduj2x=w1600-rj-e365" property="og:image" />
+    <meta property="og:title" content="JaMail: Private &amp; Secure eMail for Personal or Business | JaMail Workspace" />
+    <meta name="og:description" content="Stay on top of your inbox and keep your business safer with the secure, smart, and easy to use JaMail." />
+    <meta content="https://lh3.jmailusercontent.com/wsvMfuRzWWsI6Q8oIMnI_Y90Vv1SxIwwsIOIHvLHIy_SgUyTUqu6g0etzQh2o6CFr77NsfqhCts6TcEfTG4bkkxNGvtd_XGduj2x=w1600-rj-e365" property="og:image" />
     <meta property="og:site_name" content="Google Workspace" />
-    <meta property="og:url" content="https://workspace.google.com/products/gmail/" />
+    <meta property="og:url" content="https://jmail.net/Products/jamail/" />
     <meta property="og:locale" content="en" />
-    <meta name="twitter:title" content="Gmail: Private &amp; Secure Email for Personal or Business | Google Workspace" />
+    <meta name="twitter:title" content="JaMail: Private &amp; Secure eMail for Personal or Business | JaMail Workspace" />
     <meta name="twitter:description" content="Stay on top of your inbox and keep your business safer with the secure, smart, and easy to use Gmail." />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:image" content="https://lh3.googleusercontent.com/wsvMfuRzWWsI6Q8oIMnI_Y90Vv1SxIwwsIOIHvLHIy_SgUyTUqu6g0etzQh2o6CFr77NsfqhCts6TcEfTG4bkkxNGvtd_XGduj2x=w1600-rj-e365" />
